@@ -6,23 +6,23 @@ I am a software engineer specializing in architecting resilient, event-driven ba
 
 ### 🚀 What I'm Up To
 - 💻 **Engineering:** Building full-stack and backend systems using **Java (Spring Boot)** and **Python (FastAPI)**, deployed via **Docker, Kubernetes, and AWS**.
-- 🧠 **Exploring:** Currently prototyping **Agentic AI** systems and multi-step autonomous workflows locally.
+- 🧠 **Building:** Just launched an **Agentic AI** debugging pipeline featuring state-aware ReAct loops, secure Docker sandboxing, and real-time SSE telemetry.
 - 🏆 **Competing:** Grinding advanced data structures and algorithms. I am a **LeetCode Guardian** and **Codeforces Specialist**, with 1000+ problems solved across platforms.
-- 🌱 **Learning:** Preparing for the **JLPT N4** examination and learning to play fingerstyle acoustic guitar. 
+- 🌱 **Learning:** Continuing my Japanese language studies after sitting for the **JLPT N4** certification, and practicing fingerstyle acoustic guitar. 
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Java, Python, C++, SQL, JavaScript
-- **Backend & APIs:** Spring Boot, FastAPI, Django, Flask, REST, JWT
+- **Languages:** Java, Python, C++, SQL, JavaScript (React)
+- **Backend & APIs:** Spring Boot, FastAPI, Django, Flask, REST, Server-Sent Events (SSE)
 - **Data & Eventing:** PostgreSQL, MongoDB, Redis, Apache Kafka
-- **DevOps & Cloud:** Docker, Kubernetes (AWS EKS), GitHub Actions, Prometheus, Grafana
-- **AI/ML:** OpenAI API, KeyBERT, PyTorch, TensorFlow
+- **DevOps & Observability:** Docker, Kubernetes (AWS EKS), GitHub Actions, OpenTelemetry, Zipkin, Prometheus
+- **AI/ML:** Google Gemini API, OpenAI API, KeyBERT, PyTorch
 
 ### ⚡ Featured Projects
-* **[TalentStream-AI](https://github.com/shreyask-7/TalentStream-AI):** A cloud-native, event-driven AI recruitment platform. Built with Spring Boot, FastAPI, and Kafka to asynchronously process and score resumes using KeyBERT NLP, returning HTTP 202s in under 200ms.
-* **Agentic AI Database Agent (In Progress):** An autonomous workflow system capable of natural language interpretation, planning, and executing complex SQL queries against a PostgreSQL database. 
+- **[Autonomous Debugging Agent](https://github.com/shreyask-7/Autonomous-Debugging-Agent):** An enterprise-grade AI debugging pipeline utilizing a state-aware ReAct loop. Designed an event-driven telemetry UI and implemented isolated, ephemeral Docker sandboxing to safely execute local code fixes and generate production-ready `.patch` files.
+- **[TalentStream-AI](https://github.com/shreyask-7/TalentStream-AI):** A cloud-native, event-driven AI recruitment platform. Built with Spring Boot, FastAPI, and Kafka to asynchronously process and score resumes using KeyBERT NLP, returning HTTP 202s in under 200ms.
 
 ### 📈 Competitive Programming Stats
-- **LeetCode:** Guardian | Max Rating: 2130 | Global Rank: 291
+- **LeetCode:** Guardian | Max Rating: 2173 | Global Rank: 291
 - **Codeforces:** Specialist | Max Rating: 1494
 - **Total Solved:** 1000+ problems across LeetCode, Codeforces, AtCoder, CSES, and SPOJ.
 
